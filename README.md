@@ -1,6 +1,6 @@
 # Credit Card Transactions Dashboard
 
-https://www.forbes.com/advisor/wp-content/uploads/2022/07/credit_cards.jpeg-1-1.jpg 
+https://images.app.goo.gl/nzsGpd1GpCdFZkLr5 
 
 # Project Objective
 The goal of this project is to analyze and visualize credit card transactions and customer data using Power BI. By leveraging financial datasets, the dashboard aims to provide insights into revenue patterns, transaction volumes, customer demographics, and spending behaviors. These insights will aid stakeholders in making data-driven decisions to optimize revenue and improve customer acquisition strategies.
