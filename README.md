@@ -1,6 +1,6 @@
 # Credit Card Transactions Dashboard
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bankofbaroda.in%2Fbanking-mantra%2Frecent-trends-in-banking%2Farticles%2Fnew-credit-card-rules-effective-from-july-1-2022&psig=AOvVaw3sybQTRdGuXHGIbsZUMqJM&ust=1720545586601000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODqkJD6l4cDFQAAAAAdAAAAABAE 
+https://www.forbes.com/advisor/wp-content/uploads/2022/07/credit_cards.jpeg-1-1.jpg 
 
 # Project Objective
 The goal of this project is to analyze and visualize credit card transactions and customer data using Power BI. By leveraging financial datasets, the dashboard aims to provide insights into revenue patterns, transaction volumes, customer demographics, and spending behaviors. These insights will aid stakeholders in making data-driven decisions to optimize revenue and improve customer acquisition strategies.
