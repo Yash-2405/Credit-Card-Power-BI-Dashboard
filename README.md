@@ -1,6 +1,6 @@
 # Credit Card Transactions Dashboard
 
-https://images.app.goo.gl/nzsGpd1GpCdFZkLr5 
+ https://images.livemint.com/img/2022/04/23/600x338/TransUnion-Lawsuit-0_1650596212735_1650712283573.jpg 
 
 # Project Objective
 The goal of this project is to analyze and visualize credit card transactions and customer data using Power BI. By leveraging financial datasets, the dashboard aims to provide insights into revenue patterns, transaction volumes, customer demographics, and spending behaviors. These insights will aid stakeholders in making data-driven decisions to optimize revenue and improve customer acquisition strategies.
